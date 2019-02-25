@@ -10,6 +10,7 @@
 Exercise 2
 <br><br>
 Calculator Aplication with HTML, CSS and JS.
+<i>Chrome or Mozilla Only</i>
 <br><br><br>
 edited by https://arifpujin.com
 email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
